@@ -1,0 +1,247 @@
+{
+  "seller": [
+    {
+      "name": "Md karimul islam",
+      "password": "Md7861",
+      "email": "7mdkarimul@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "user1",
+      "password": "Md7861",
+      "email": "user1@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "hi",
+      "password": "hi",
+      "email": "hi@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 4
+    },
+    {
+      "name": "jjj",
+      "password": "jjj",
+      "email": "jjj@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "kkk",
+      "password": "kkk",
+      "email": "kkk@gmail.com",
+      "id": 6
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 9
+    },
+    {
+      "name": "karimul islam",
+      "password": "1234",
+      "email": "karimul@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 12
+    }
+  ],
+  "seller-product": [
+    {
+      "name": "Samsung m 41",
+      "price": "25000",
+      "color": "black",
+      "category": "mobile",
+      "description": "new samsung phone",
+      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80",
+      "id": 1
+    },
+    {
+      "name": "i ohone 14",
+      "price": 100000,
+      "color": "black",
+      "category": "mobile",
+      "description": "new apple product",
+      "image": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80",
+      "id": 2
+    },
+    {
+      "name": "Logitech B170 Wireless Mouse",
+      "price": 599,
+      "color": "black",
+      "category": "electronics",
+      "description": " 12-Months Battery Life, Ambidextrous, PC/Mac/Laptop - Black",
+      "image": "https://m.media-amazon.com/images/I/71LBfVLc2JL._SL1500_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Logitech K230 Wireless Keyboard, Black",
+      "price": 1095,
+      "color": "black",
+      "category": "electronics",
+      "description": "The compact keyboard is about 36 percent smaller than our standard keyboards but still has all the standard keys",
+      "image": "https://m.media-amazon.com/images/I/61qlxWa+t3L._SL1500_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Offbeat RIPJAW 2.4Ghz Rechargeable Wireless Gaming Mouse",
+      "price": 899,
+      "color": "black",
+      "category": "electronics",
+      "description": "Dual gaming mode, Rechargeable Wireless Mouse, Aluminum bottom plate",
+      "image": "https://m.media-amazon.com/images/I/41P7GVRxXyL.jpg",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "karimul",
+      "email": "karimul@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "islam",
+      "email": "islam@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "jhj",
+      "email": "jhjh@gmail.com",
+      "password": "8787",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung m 41",
+      "price": "25000",
+      "color": "black",
+      "category": "mobile",
+      "description": "new samsung phone",
+      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 1,
+      "id": 1
+    },
+    {
+      "name": "Samsung m 41",
+      "price": "25000",
+      "color": "black",
+      "category": "mobile",
+      "description": "new samsung phone",
+      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 1,
+      "id": 2
+    },
+    {
+      "name": "Logitech K230 Wireless Keyboard,",
+      "price": 1095,
+      "color": "black",
+      "category": "electronics",
+      "description": "The compact keyboard is about 36 percent smaller than our standard keyboards but still has all the standard keys",
+      "image": "https://m.media-amazon.com/images/I/61qlxWa+t3L._SL1500_.jpg",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 4,
+      "id": 3
+    },
+    {
+      "name": "Logitech K230 Wireless Keyboard,",
+      "price": 1095,
+      "color": "black",
+      "category": "electronics",
+      "description": "The compact keyboard is about 36 percent smaller than our standard keyboards but still has all the standard keys",
+      "image": "https://m.media-amazon.com/images/I/61qlxWa+t3L._SL1500_.jpg",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 4,
+      "id": 4
+    },
+    {
+      "name": "i ohone 14",
+      "price": 100000,
+      "color": "black",
+      "category": "mobile",
+      "description": "new apple product",
+      "image": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 2,
+      "id": 5
+    },
+    {
+      "name": "i ohone 14",
+      "price": 100000,
+      "color": "black",
+      "category": "mobile",
+      "description": "new apple product",
+      "image": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 2,
+      "id": 6
+    },
+    {
+      "name": "i ohone 14",
+      "price": 100000,
+      "color": "black",
+      "category": "mobile",
+      "description": "new apple product",
+      "image": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 2,
+      "id": 7
+    },
+    {
+      "name": "i ohone 14",
+      "price": 100000,
+      "color": "black",
+      "category": "mobile",
+      "description": "new apple product",
+      "image": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 2,
+      "id": 8
+    }
+  ],
+  "orders": []
+}

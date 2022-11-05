@@ -1,0 +1,107 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+
+}
+.nav  h1{
+    color:blueviolet;
+    margin: 0px;
+    font-size: 40px;
+}
+.nav h1 a{
+    text-decoration: none;
+}
+a:active{
+    color:inherit;
+}
+.nav .main{
+    display: inline-flex;
+    list-style-type: none;
+}
+.nav .main > li{
+    position: relative;
+    padding: 5px 10px;
+}
+.profile-nav:hover .dropdown{
+  display: block;
+}
+.nav .main > li  a{
+text-decoration: none;
+ color: blueviolet;
+font-family: sans-serif;
+cursor: pointer;
+}
+
+/*Start dropdown menu*/
+.dropdown{
+    list-style: none;
+   position: absolute;
+   width:150px;
+   left:50%;
+   bottom:0%;
+   transform: translate(-50%,100%);
+   box-shadow: 2px 4px 12px #ddd;
+   display: none;
+   padding: 10px 0px 0px 0px;
+  
+}
+.dropdown  li  {
+    padding: 5px;
+}
+.dropdown li:hover{
+    background-color:#ddd;
+}
+.dropdown   li a{
+  
+}
+.search-nav {
+    flex: 1;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    position: relative;
+}
+.suggested-result{
+    width:100%;
+    height: auto;
+    position:absolute;
+    left: 0px;
+    top:40px;
+    float: left;
+    z-index: 1000;
+    background-color: #f9f9f9;
+    list-style: none;
+}
+.suggested-result li {
+    padding: 5px 0px;
+    display: block;
+    cursor: pointer;
+}
+.suggested-result li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: blueviolet;
+}
+.search-nav input[type='search']{
+    flex: 1;
+    color: blueviolet;
+    border:1px solid blueviolet; 
+    height: 35px;
+    border-right: 0px;
+    outline: none;
+    padding: 0px 5px;
+    float: left;
+
+}
+.search-nav button{
+    color: blueviolet;
+    border:1px solid blueviolet; 
+    height: 35px;
+    border-left: 0px;
+    outline: none;
+    cursor: pointer;
+    padding: 0px 5px;
+    float: left;
+}

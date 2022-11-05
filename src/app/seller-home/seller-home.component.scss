@@ -1,0 +1,32 @@
+
+.product-list{
+    margin: 10px;
+    padding: 20px 0px;
+}
+.product-list h1{
+    margin: 5px 0px;
+    color: blueviolet;
+}
+
+table{
+    text-align:left;
+    color: blueviolet;
+    border-collapse: collapse;
+}
+table td, table th{
+    border: 1px solid blueviolet;
+    padding:10px;
+    min-height: 160px;
+}
+img{
+    width:100px;
+    height: 100px;
+}
+
+.product-message{
+    color: green;
+    margin: 5px 0px;
+}
+fa-icon{
+    cursor: pointer;
+}

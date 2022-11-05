@@ -1,0 +1,28 @@
+.user-auth h1{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    color: blueviolet;
+}
+
+p{
+    margin: 4px 0px;
+}
+p a{
+    cursor: pointer;
+    color: blueviolet;
+}
+
+.validate{
+    text-align: left;
+    color: red;
+    position: relative;
+    top:-20px;
+}
+.form-btn:disabled{
+    cursor:not-allowed;
+}
+.login-error{
+    text-align: left;
+    color: red;
+}

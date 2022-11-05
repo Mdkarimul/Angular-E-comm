@@ -1,0 +1,11 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid red;
+}
+
+.nav > h1 {
+  color: blueviolet;
+  margin: 0px;
+  font-size: 40px;
+}
